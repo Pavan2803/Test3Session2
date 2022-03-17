@@ -1,1 +1,7 @@
-
+gcc -g p1final.c
+./a.out
+Enter the numerator of 1st fraction:1
+Enter the denominator of 1st fraction2
+Enter the numerator of 1st fraction1
+Enter the denominator of 2nd fraction4
+So the sum of 1/2+1/4=3/4
